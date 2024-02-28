@@ -51,3 +51,27 @@ a:hover {
 div:focus {
   outline: none;
 }
+.flex {
+  display: flex;
+}
+.justify-end {
+  justify-content: end;
+}
+.justify-between {
+  justify-content: space-between;
+}
+.justify-around {
+  justify-content: space-around;
+}
+.align-center {
+  align-items: center;
+}
+.margin-left {
+  margin-left: 12px;
+}
+.margin-top {
+  margin-top: 12px;
+}
+.margin-top-sm {
+  margin-top: 6px;
+}
